@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  my-strapi-app:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2022-02-27T18:35:05.667197+01:00"
+    description: A Helm chart for Kubernetes
+    digest: cdb74920cd2a912d9e6bbed9df6e1d5de59942c98c3e3c7e054fe8d3ba77fbbd
+    name: my-strapi-app
+    type: application
+    urls:
+    - https://github.com/Kithrian/strapi-package/my-strapi-app-0.1.0.tgz
+    version: 0.1.0
+generated: "2022-02-27T18:35:05.665633+01:00"
